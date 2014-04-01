@@ -20,7 +20,8 @@ end
 nums0 = []
 nums1 = [1]
 nums2 = [5,4,3,2,1]
-nums2 = [4,5,32,6,77,2,4,78,9,1,5,4,3,2,1]
+nums3 = [4,5,32,6,77,2,4,78,9,1,5,4,3,2,1]
 p bubble_sort(nums0)
 p bubble_sort(nums1)
 p bubble_sort(nums2)
+p bubble_sort(nums3)
